@@ -46,5 +46,5 @@ SELECT
 * Usage Penalty: The data reveals a sharp depreciation curve and price penalty once vehicles cross the 120,000-mile threshold.
 
 ## Dashboard Preview
-![Power BI Dashboard](Dashboard_Preview.png)
+![Power BI Dashboard](Dashboard_Preview.PNG)
 
