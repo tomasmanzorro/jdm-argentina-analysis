@@ -14,7 +14,7 @@ This project is a complete end-to-end data analytics pipeline focusing on the Ja
 * Manual Data Extraction: Handled the data entry process for over 50 local marketplace listings, ensuring high accuracy from the source.
 * Data Cleansing: Standardized inconsistent text formats, resolved missing values, and structured unstructured descriptions into clean, categorical columns (e.g., tagging vehicles as "Stock" or "Modified").
 
-  ![Excel Data Entry Preview](Excel_Preview.png)
+  ![Excel Data Entry Preview](Excel_Preview.PNG)
 
 ### Phase 2: SQL Data Pipeline (BigQuery)
 Developed a sequence of 5 logical SQL scripts to transform, normalize, and analyze the raw database:
