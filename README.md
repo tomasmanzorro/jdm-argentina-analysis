@@ -32,8 +32,7 @@ Developed a sequence of 5 logical SQL scripts to transform, normalize, and analy
 * Price Leadership: The Honda Civic leads the market valuation at an average of $7,710 USD.
 * Modification ratio: the Nissan Sentra is more prone to modifications than the Honda Civic or Toyota Corolla.
 * Preservation Focus: A massive 86% of the analyzed japanese cars market remains in "Stock" condition, proving that original setups are highly prevalent.
-* Usage Penalty: The data reveals a sharp depreciation curve and price penalty once vehicles cross the 120,000-mile threshold.
-
+* Brand Power vs. Mileage: Contrary to standard vehicle depreciation, the data reveals that mileage has a minimal impact on the pricing of these specific models. The Honda Civic, for instance, maintains high valuations ($6,000 - $8,000) even when approaching the 200,000-mile mark.
 ## Dashboard Preview
 ![Power BI Dashboard](Dashboard_Preview.PNG)
 
